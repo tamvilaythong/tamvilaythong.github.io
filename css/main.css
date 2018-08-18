@@ -55,6 +55,11 @@ section .about img {
   width: 100%;
 }
 
+.data8 {
+  width: 150px;
+  height: 150px;
+}
+
 section .teaching {
   margin: 10px 0;
   display: inline-block;
