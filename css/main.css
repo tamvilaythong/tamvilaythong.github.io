@@ -57,14 +57,14 @@ section .row img {
 .btn.btn-primary {
   border-radius: 2px;
   border: 0px;
-  color: #000000;
+  color: #010101;
   text-shadow: none;
   background-color: #ffffff;
 }
 
 .btn.btn-primary:hover {
   color: #ffffff;
-  background-color: #008080;
+  background-color: #17899B;
 }
 
 .btn-secondary {
