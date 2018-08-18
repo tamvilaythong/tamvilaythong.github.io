@@ -55,7 +55,7 @@ section .about img {
   width: 100%;
 }
 
-section .teaching .data8 {
+.data8 {
   width: 150px;
   height: 150px;
 }
