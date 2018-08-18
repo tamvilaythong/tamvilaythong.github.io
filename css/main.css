@@ -67,7 +67,7 @@ section .teaching {
 }
 
 section .teaching p {
-  margin: 15px 0;
+  margin: 30px 0;
   display: inline-block;
   position: relative;
 }
