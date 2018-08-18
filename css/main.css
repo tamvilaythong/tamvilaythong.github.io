@@ -66,6 +66,12 @@ section .teaching {
   position: relative;
 }
 
+section .teaching p {
+  margin: 15px 0;
+  display: inline-block;
+  position: relative;
+}
+
 .col-md-6 {
   margin: 0 0 30px;
 }
