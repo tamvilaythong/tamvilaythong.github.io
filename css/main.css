@@ -57,6 +57,7 @@ section .about img {
 
 section .teaching {
   margin: 10px 0;
+  display: inline-block;
   position: relative;
 }
 
