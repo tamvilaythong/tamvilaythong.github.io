@@ -55,11 +55,6 @@ section .about img {
   width: 100%;
 }
 
-section .description {
-  margin: 0 0 30px;
-  text-align: left;
-}
-
 .col-md-6 {
   margin: 0 0 30px;
 }
