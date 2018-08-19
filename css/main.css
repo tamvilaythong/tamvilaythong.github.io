@@ -109,7 +109,6 @@ footer ul {
   list-style: none;
 }
 
-footer li img {
-  width: 32px;
-  height: 32px;
+footer li a {
+  	font-size: 36px;
 }
