@@ -63,6 +63,16 @@ header p {
 	-ms-transform: translate(-50%, -50%);
 }
 
+.projects .col-sm-6:hover img {
+  opacity: 0.3;
+  color: #000000;
+  cursor: pointer;
+}
+
+.projects .col-sm-6:hover .title {
+  opacity: 1;
+}
+
 
 section .row img {
   margin: 0 0 30px;
