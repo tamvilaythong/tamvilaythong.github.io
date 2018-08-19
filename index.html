@@ -49,10 +49,35 @@
           </button>
         </div>
           <div class="modal-body">
-	    <p>Google Maps inspired web-based routing application. I implemented the <b>back end</b> for the mapping and routing of 
+	    <p>Google Maps inspired web-based routing application for CS 61B. I implemented the <b>back end</b> for the mapping and routing of 
 	       Berkeley by using existing front end and OpenStreetMap mapping data. Developed map rastering, zoom functionality, 
 	       and clicking for location selection. I used a SAX parser with an OSM XML data file to build a graph representation 
-	       of the Berkeley area, and used algorithm with the graph representation to implement shortest-path routing.</p>
+	       of the Berkeley area, and used <b>A* algorithm</b> with the graph representation to implement shortest-path routing.</p>
+          </div>
+        </div>
+      </div>
+      </div>
+    </div>
+	    
+    <div class="col-sm-6">
+      <a data-target="#tilegame" data-toggle="modal">
+        <img src="/projectsimg/compliant_world_example.png">
+        <p class="title">2D Tile Game</p>
+      </a>
+  <div class="modal fade" id="tilegame" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title" id="exampleModalLabel">2D Tile Game (Java)</h4>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+          <div class="modal-body">
+	    <p>I designed and developed two-player keyboard game from scratch with provided TileEngine Renderer. Utilized arrays and 
+	       pseudorandom number generator for the world generation seed/layout. Used StdDraw and Serializable for the game UI behavior.
+	       The game is based off escaping a famous UC Berkeley campus building - Dwinelle Hall - known for it's confusing layout.
+	       The goal of the game is to have the two players strategically plan their moves in order to be the first to escape Dwinelle Hall.</p>
           </div>
         </div>
       </div>
