@@ -53,6 +53,16 @@ header p {
 	backface-visibility: hidden;
 }
 
+.projects .col-sm-6 .title {
+	transition: .5s ease;
+	opacity: 0;
+	position: absolute;
+	top: 50%;
+	left: 30%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+}
+
 
 section .row img {
   margin: 0 0 30px;
