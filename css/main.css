@@ -45,9 +45,9 @@ header p {
   color: #fff;
 }
 
-.jumbotron h3 {
+.container .row text-center h3 {
   margin: 0 0 20px;
-  color: #fff;	
+  color: #000;	
 }
 
 .projects {
