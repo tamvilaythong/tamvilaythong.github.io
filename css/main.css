@@ -45,6 +45,10 @@ header p {
   color: #fff;
 }
 
+.projects {
+	position: relative;	
+}
+
 .projects img {
 	width: 250px;
 	height: 150px;
