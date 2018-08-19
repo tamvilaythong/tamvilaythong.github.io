@@ -45,6 +45,15 @@ header p {
   color: #fff;
 }
 
+.projects img {
+	width: 250px;
+	height: 150px;
+	opacity: 1;
+	transition: .5s ease;
+	backface-visibility: hidden;
+}
+
+
 section .row img {
   margin: 0 0 30px;
   width: 100%;
@@ -110,6 +119,6 @@ footer ul {
 }
 
 footer li img {
-  	width: 32px;
-    height: 32px;
+  width: 32px;
+  height: 32px;
 }
